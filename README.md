@@ -13,7 +13,7 @@ Question 2
 add link to notebook
 
 Is there Bullish sentiment in the US stock market and particularly US tech stocks?
-[Analysis of Bullish sentiment in US stock market and large US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
+[Analysis of Bullish sentiment in US stock market/large US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
 
 Question 4
 add link to notebook
