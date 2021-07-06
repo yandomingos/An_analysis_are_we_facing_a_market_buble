@@ -17,7 +17,6 @@ Is there Bullish sentiment in the US stock market and particularly US tech stock
 [Analysis of Bullish sentiment in the US stock market/large US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
 <img width="1992" alt="Screen Shot 2021-07-06 at 3 06 23 PM" src="https://user-images.githubusercontent.com/83512412/124678628-eabf6200-de90-11eb-8770-10853b910591.png">
 <img width="1617" alt="Screen Shot 2021-07-06 at 3 42 23 PM" src="https://user-images.githubusercontent.com/83512412/124678668-00cd2280-de91-11eb-9098-640750afcc0f.png">
-<img width="1992" alt="Screen Shot 2021-07-06 at 3 06 23 PM" src="https://user-images.githubusercontent.com/83512412/124678628-eabf6200-de90-11eb-8770-10853b910591.png">
 
 Question 4
 add link to notebook
