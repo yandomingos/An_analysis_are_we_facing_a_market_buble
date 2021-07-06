@@ -12,8 +12,8 @@ Are the interest rates and economic growth showing signs of a bubble?
 Question 2
 add link to notebook
 
-Question 3
-add link to notebook
+Is there Bullish sentiment in the US stock market and particularly US tech stocks?
+[Analysis of Bullish sentiment and US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
 
 Question 4
 add link to notebook
