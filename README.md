@@ -4,12 +4,10 @@
 
 This project aims to analyze the stock market's current and historical data and answer to the question 'are we facing a market bubble?'. The team analyzed the gathered data via Python's packages and Data Visualization: Pandas, Numpy, Plotly.. (add more). 
 
-
-
 The following questions were answered throughout our analysis:
 
 Are the interest rates and economic growth showing signs of a bubble?
-add link to notebook
+[Analysis of the Economic Growth(GDP) and Interest Rates](https://github.com/yandomingos/project_1/blob/main/question_1.ipynb)
 
 Question 2
 add link to notebook
