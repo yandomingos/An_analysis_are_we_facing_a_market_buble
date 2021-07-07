@@ -10,14 +10,8 @@ The following questions were answered throughout our analysis:
 Are the interest rates and economic growth showing signs of a bubble?
 [Analysis of the Economic Growth(GDP) and Interest Rates](https://github.com/yandomingos/project_1/blob/main/question_1.ipynb)
 
-![image1](./Images/image1.png)
-![image2](./Images/image2.png)
-![image3](./Images/image3.png)
-
-One of the main causes of a financial bubble is the abundance of money in the market. When long term interest rates are lowered, banks are incentivized to give more credit thorugh the landing process. This 'bubbly' process most of the time leads to the formation of a bubble in the economy.
-As per shown on graph, interest rates have been lowering signifficantly and were at the lowest in 2020, it went back up at the beginning of the year, however, slowed down again mid-year. 
-
-The slow down of th economy is one of the main indicators that the market is going to crash. As per shown on graph, 2020 showed an economic slow down because of the pandemic, however, things started picking up rapidly after with government incentives. Additionally, in comparison to the 2008 crash, the slow down was a lot more significant in 2020.
+Question 2
+add link to notebook
 
 Is there Bullish sentiment in the US stock market and particularly US tech stocks?
 [Analysis of Bullish sentiment in the US stock market/large US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
