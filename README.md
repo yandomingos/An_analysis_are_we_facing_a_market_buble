@@ -40,9 +40,17 @@ Is there Bullish sentiment in the US stock market and particularly US tech stock
 <img width="1992" alt="Screen Shot 2021-07-06 at 3 06 23 PM" src="https://user-images.githubusercontent.com/83512412/124678628-eabf6200-de90-11eb-8770-10853b910591.png">
 <img width="1617" alt="Screen Shot 2021-07-06 at 3 42 23 PM" src="https://user-images.githubusercontent.com/83512412/124678668-00cd2280-de91-11eb-9098-640750afcc0f.png">
 
-Question 4
+
 ![picture](./Images/image4.PNG)
 ![picture](./Images/image5.PNG)
+
+
+We can observe price per earnings are hovering around 45, thats means an nvestor would take an average of 45 years to get a return on his investment, of course we are not considering things such as growth of sales/profits or increase margins and net income.
+In addtion, the low yield returns on SP500 companies are also putting pressure on the current market, investors are getting very little returns in comparison to previous decades.
+
+To simply put it in perpective, either investors are ok with getting verry little return on their money or the sentiment of growth in the overall sp500 index are very bullish.
+
+
 
 ### Contributors
 Victor Freire, Yan D, Ivan KN Fung, Alexander McMullan
