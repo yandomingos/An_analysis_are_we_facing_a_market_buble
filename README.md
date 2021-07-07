@@ -41,8 +41,8 @@ Is there Bullish sentiment in the US stock market and particularly US tech stock
 <img width="1617" alt="Screen Shot 2021-07-06 at 3 42 23 PM" src="https://user-images.githubusercontent.com/83512412/124678668-00cd2280-de91-11eb-9098-640750afcc0f.png">
 
 Question 4
-![image1](./Images/Average PE SP500.png)
-![image2](./Images/Average Yield.png)
+![image4](./Images/image4.png)
+![image5](./Images/image5.png)
 
 ### Contributors
 Victor Freire, Yan D, Ivan KN Fung, Alexander McMullan
