@@ -21,7 +21,7 @@ The slow down of th economy is one of the main indicators that the market is goi
 What impacts do the economic impacts on the stock markets?
 
 
-[Analysis of other Economic indicator and GDP](https://github.com/yandomingos/project_1/blob/main/project_1.ipynb)
+[Analysis of other Economic indicator and GDP](https://github.com/yandomingos/project_1/blob/main/project1.ipynb)
 We tried to investiage the relationship of each economic indicators with the stock market performance (S&P500) by using the panada function corr(), and we found that the money supply and inflation rate has positive correlation with the S&P500 return.  Seaborn library was utlitlzed to plot the heatmap to show the correlation matrix.
 
 ![picture](./Images/heatmap.png)
