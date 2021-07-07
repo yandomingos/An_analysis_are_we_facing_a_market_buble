@@ -20,6 +20,8 @@ As per shown on graph, interest rates have been lowering signifficantly and were
 The slow down of th economy is one of the main indicators that the market is going to crash. As per shown on graph, 2020 showed an economic slow down because of the pandemic, however, things started picking up rapidly after with government incentives. Additionally, in comparison to the 2008 crash, the slow down was a lot more significant in 2020.
 What impacts do the economic impacts on the stock markets?
 
+
+[Analysis of other Economic indicator and GDP](https://github.com/yandomingos/project_1/blob/main/project_1.ipynb)
 We tried to investiage the relationship of each economic indicators with the stock market performance (S&P500) by using the panada function corr(), and we found that the money supply and inflation rate has positive correlation with the S&P500 return.  Seaborn library was utlitlzed to plot the heatmap to show the correlation matrix.
 
 ![picture](./Images/heatmap.png)
