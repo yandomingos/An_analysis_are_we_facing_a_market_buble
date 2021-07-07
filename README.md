@@ -8,7 +8,7 @@ This project aims to analyze the stock market's current and historical data and 
 The following questions were answered throughout our analysis:
 
 Are the interest rates and economic growth showing signs of a bubble?
-[Analysis of the Economic Growth(GDP) and Interest Rates](https://github.com/yandomingos/project_1/blob/main/question_1.ipynb)
+[Analysis of the Economic Growth(GDP) and Interest Rates](https://github.com/yandomingos/project_1/blob/main/Interest_rates_and_gdp.ipynb)
 
 ![image1](./Images/image1.png)
 ![image2](./Images/image2.png)
