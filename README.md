@@ -36,7 +36,7 @@ Furthermore, a comparison between GDP and SP500 was made to see any leads of sto
 ![picture](./Images/SP500_GDP.png)
 
 Is there Bullish sentiment in the US stock market and particularly US tech stocks?
-[Analysis of Bullish sentiment in the US stock market/large US tech stocks](https://github.com/yandomingos/project_1/blob/main/Alexander's%20Project%201%20Notebook.ipynb)
+[Analysis of Bullish sentiment in the US stock market/large US tech stocks](https://github.com/yandomingos/project_1/blob/main/bullish_sentiment_us_market.ipynb)
 <img width="1992" alt="Screen Shot 2021-07-06 at 3 06 23 PM" src="https://user-images.githubusercontent.com/83512412/124678628-eabf6200-de90-11eb-8770-10853b910591.png">
 <img width="1617" alt="Screen Shot 2021-07-06 at 3 42 23 PM" src="https://user-images.githubusercontent.com/83512412/124678668-00cd2280-de91-11eb-9098-640750afcc0f.png">
 
@@ -44,7 +44,7 @@ Is there Bullish sentiment in the US stock market and particularly US tech stock
 ![picture](./Images/image4.PNG)
 ![picture](./Images/image5.PNG)
 
-
+[Can the market be sustainable to such a high grow environment?](https://github.com/yandomingos/project_1/blob/main/can_the_market_be_sustainable.ipynb)
 We can observe price per earnings are hovering around 45, thats means an nvestor would take an average of 45 years to get a return on his investment, of course we are not considering things such as growth of sales/profits or increase margins and net income.
 In addtion, the low yield returns on SP500 companies are also putting pressure on the current market, investors are getting very little returns in comparison to previous decades.
 
